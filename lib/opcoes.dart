@@ -40,7 +40,7 @@ class opcoes extends StatelessWidget {
                 leading: Image.asset('/youtube.png', width: 250),
                 onTap: () => {
                       launch(
-                          'https://www.youtube.com/channel/UCgb84H7TOvEzcimi-lgMgFg')
+                          'https://youtu.be/bIh1ADhHnAU')
                     }
             ),
           ],
